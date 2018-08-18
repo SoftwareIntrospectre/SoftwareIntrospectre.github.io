@@ -1,0 +1,32 @@
+/*body, html{
+	height: 100%;
+}
+*/
+
+
+.bg {
+	background-image: url("meal.jpg");
+
+	height: 100%;
+
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.Pacifico{
+	font-family: Pacifico;
+	font-weight: bold;
+}
+
+.btn-signup{
+	color: white;
+	background-color: green;
+	background-size: large;
+	font-style: 
+}
+h3 {
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px black;
+}
+
